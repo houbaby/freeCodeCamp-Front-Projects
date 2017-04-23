@@ -1,0 +1,39 @@
+body{
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #1f2933;
+}
+h1 {
+    font-size: 6rem;
+}
+
+p {
+    font-size: 3rem;
+}
+
+h1,
+p {
+    text-align: center;
+    margin: 30px 0 30px;
+}
+
+.wi {
+    width: 50px;
+    font-size: 5rem;
+    display: block;
+    margin: 0 auto;
+}
+
+#temperature {
+    cursor: pointer;
+}
+
+#tip {
+    font-size: 1rem;
+}
+
+#map {
+    margin: 0 auto 30px;
+    text-align: center;
+    display: block;
+}
